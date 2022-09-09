@@ -1,0 +1,74 @@
+Website:
+--
+  1. Static Websites 
+      Cognizant v1, v2 
+
+      HTML + CSS + JS 
+
+  2. Dynamic Websites 
+      Cognizant v3 
+
+Webapps:
+--
+  1. Server Side Rendering 
+  2. Client Side Rendering
+
+Browser
+---
+  1. HTML Renderer (html)
+  2. CSS Parser (css)
+  3. JS Engine (js)
+
+HTML 
+--
+  * Structural Layer 
+
+  2 Types  of Elements 
+  -
+    1. Block Level Elements
+        h1 to h6 
+        p 
+
+    2. Inline Elements
+        a 
+        button        
+
+CSS 
+--
+  * Presentation Layer 
+
+JS 
+--
+  * Interaction Layer 
+
+
+Web Layout
+-==
+  1. Fixed
+  2. Fluid 
+
+----
+
+---
+
+HTML/CSS/JS:-
+   HTML Basics [DONE]
+   Web Conformance Guideline (WCAG) (Continue to learn)
+    Navigation, [DONE]
+    Meta  [DONE]
+   Media  (about page ) 
+    Forms, and Validation (contact)
+   Adding Some Basic CSS 
+   CSS
+   Adding Style and Layout with CSS3
+   Responsive Web Design and Accessibility
+    JavaScript
+   Adding Functionality Using Built-in JavaScript Libraries
+   Javascript
+   Arrays
+   Operators
+    Templates
+   Custom Elements
+  Node:-
+   NodeJs Introduction 
+
