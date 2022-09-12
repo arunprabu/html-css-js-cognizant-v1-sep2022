@@ -61,8 +61,9 @@
         <form method="POST">
           <div>
             <label for="nameInput">Name:</label>
-            <input type="text" id="nameInput" name="personName" placeholder="Name"
-            required>
+            <input type="text" id="nameInput" name="personName" 
+            placeholder="Name"
+            required pattern="[A-Za-z]{1,32}">
             <span>Only Alphabets. No numbers pls</span>
           </div>
 
