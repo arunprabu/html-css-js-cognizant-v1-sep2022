@@ -57,7 +57,7 @@ HTML/CSS/JS:-
     Navigation, [DONE]
     Meta  [DONE]
    Media  (about page ) 
-    Forms, and Validation (contact)
+    Forms, and Validation, Google Map (contact)
    Adding Some Basic CSS 
    CSS
    Adding Style and Layout with CSS3
