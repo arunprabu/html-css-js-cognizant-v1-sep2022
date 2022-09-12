@@ -58,10 +58,12 @@ HTML/CSS/JS:-
     Meta  [DONE]
    Media  (about page ) 
     Forms, and Validation, Google Map (contact)
+  
    Adding Some Basic CSS 
    CSS
    Adding Style and Layout with CSS3
    Responsive Web Design and Accessibility
+  
     JavaScript
    Adding Functionality Using Built-in JavaScript Libraries
    Javascript
