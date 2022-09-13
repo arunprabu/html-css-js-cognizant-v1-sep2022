@@ -63,7 +63,7 @@ HTML/CSS/JS:-
    CSS
    Adding Style and Layout with CSS3
    Responsive Web Design and Accessibility
-  
+
     JavaScript
    Adding Functionality Using Built-in JavaScript Libraries
    Javascript
@@ -74,3 +74,29 @@ HTML/CSS/JS:-
   Node:-
    NodeJs Introduction 
 
+
+
+---
+
+PascalCase 
+--
+  Object oriented classes, Interfaces 
+
+  class CarInfo {
+
+  }
+
+camelCase 
+--
+  id, css classes 
+  js variables, functions, methods 
+
+
+kebab-case 
+--
+  id, css classes 
+
+
+snake_case
+--
+  NEVER USE 
